@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="city_oper_items">
-        <item>Set as default city</item>
-        <item>Delete this city</item>
+        <item>Varsayılan şehir olarak ayarla</item>
+        <item>Bu şehri sil</item>
     </string-array>
     <array name="preview">
         <item>@drawable/themepreview</item>
@@ -17,12 +17,12 @@
         <item>com.zui.deskclock</item>
     </string-array>
     <string-array name="activeUsed">
-        <item>TRUE</item>
-        <item>TRUE</item>
-        <item>TRUE</item>
-        <item>TRUE</item>
-        <item>TRUE</item>
-        <item>TRUE</item>
+        <item>DOĞRU</item>
+        <item>DOĞRU</item>
+        <item>DOĞRU</item>
+        <item>DOĞRU</item>
+        <item>DOĞRU</item>
+        <item>DOĞRU</item>
     </string-array>
     <array name="new_leftscreen_num">
         <item>@drawable/new_leftscreen_0</item>
@@ -62,12 +62,12 @@
         <item>CYLINDER</item>
     </string-array>
     <string-array name="pref_gesture_values">
-        <item>none</item>
-        <item>menu</item>
-        <item>recentApp</item>
-        <item>notification</item>
-        <item>Positioning</item>
-        <item>lockscreen</item>
+        <item>hiçbiri</item>
+        <item>menü</item>
+        <item>SonUygulama</item>
+        <item>bildirim</item>
+        <item>konumlama</item>
+        <item>kilit ekranı</item>
     </string-array>
     <string-array name="pref_icon_text_size_values">
         <item>15</item>
@@ -75,9 +75,9 @@
         <item>10</item>
     </string-array>
     <string-array name="pref_title_color_values">
-        <item>theme</item>
-        <item>black</item>
-        <item>white</item>
+        <item>tema</item>
+        <item>siyah</item>
+        <item>beyaz</item>
     </string-array>
     <string-array name="pref_slide_effect_choices">
         <item>Default</item>
@@ -89,24 +89,24 @@
         <item>Cylinder</item>
     </string-array>
     <string-array name="pref_gesture_choices">
-        <item>None</item>
-        <item>Open desktop menu</item>
-        <item>Show recently used apps</item>
-        <item>Open notification bar</item>
-        <item>Find icon</item>
-        <item>Lock screen</item>
+        <item>Hiçbiri</item>
+        <item>Masaüstü menüsünü aç</item>
+        <item>Son kullanılan uygulamaları göster</item>
+        <item>Bildirim çubuğunu aç</item>
+        <item>Simge bul</item>
+        <item>Kilit ekranı</item>
     </string-array>
     <string-array name="pref_leftfunction_choices">
         <item>NONE</item>
-        <item>t9 Search</item>
-        <item>web apps</item>
-        <item>widgets</item>
+        <item>t9 Araması</item>
+        <item>web uygulamaları</item>
+        <item>widget/'lar</item>
     </string-array>
     <string-array name="pref_leftfunction_choices_values">
-        <item>NONE</item>
-        <item>t9 Search</item>
+        <item>HİÇBİRİ</item>
+        <item>t9 Araması</item>
         <item>web apps</item>
-        <item>widgets</item>
+        <item>widget/'lar</item>
     </string-array>
     <string-array name="pref_select_desktop_layout_choices">
         <item>4x5</item>
